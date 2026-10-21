@@ -186,6 +186,10 @@ body{
   color:var(--navy);
   box-shadow:0 9px 28px rgba(78,228,220,.24)
 }
+.btn-projects:hover{
+  color: var(--white);
+  background-color:  var(--navy);
+}
 .btn-contact{
   color:var(--white);
   border:1px solid rgba(220,241,255,.35)
